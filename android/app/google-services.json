@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "494992922632",
+    "firebase_url": "https://repeaters-bg.firebaseio.com",
+    "project_id": "repeaters-bg",
+    "storage_bucket": "repeaters-bg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494992922632:android:5863751a9c3e7451",
+        "android_client_info": {
+          "package_name": "com.gostartups.repeatersbg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494992922632-mn0ogn6cvubthhliso12tn6pbojupms5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8wI806ZCgwWWcXZ-rcPu2LRlBSPGFviE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
